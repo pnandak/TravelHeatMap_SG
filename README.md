@@ -8,7 +8,7 @@
 . Plot the travel heat map [*Ongoing*] -- if you have some advice on how to do this aesthetically in R, please get in touch!
 
 ## Instructions
-1. You need nodejs installed on your system. If you intend to use my scraper, you will also need R.
+1. You need nodejs/npm installed on your system. If you intend to use my scraper, you will also need R.
 2. Run `npm install` inside directory to install the node_modules required for this project
 3. Edit `run.js` script to your settings and needs:
     - STARTING\_ADDRESS -- The starting address from which the Directions API will attempt to find a route to all the postcodes you wish to data mine. (I use my own address, for example)
