@@ -1,0 +1,28 @@
+{
+  "name": "travel_heat_map_sg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidmontu/TravelHeatMap_SG.git"
+  },
+  "keywords": [
+    "Singapore"
+  ],
+  "author": "Sid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidmontu/TravelHeatMap_SG/issues"
+  },
+  "homepage": "https://github.com/sidmontu/TravelHeatMap_SG#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "googlemaps": "^1.12.0",
+    "line-by-line": "^0.1.5",
+    "util": "^0.10.3"
+  }
+}
