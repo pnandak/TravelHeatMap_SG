@@ -2,7 +2,9 @@
 
 ## Status
 . Scrape Singapore Postcodes [**Complete**]
+
 . Data mine Geocodes and Travelling Time from Google Maps API [*Ongoing*]
+
 . Plot the travel heat map [*Ongoing*] -- if you have some advice on how to do this aesthetically in R, please get in touch!
 
 ## Instructions
